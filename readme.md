@@ -90,8 +90,8 @@ Execute the notebook sections in order:
 ├── .venv/                  # Virtual environment
 ├── requirements.txt        # Python dependencies
 ├── Car-dekho-prediction.ipynb          # Main Jupyter notebook
-├── README.md              # This file
-└── archive.zip                  # Dataset directory (auto-created)
+├── README.md              
+└── archive.zip                  # Dataset  (auto-created)
 ```
 
 ## Troubleshooting
